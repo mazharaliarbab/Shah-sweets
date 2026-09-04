@@ -1,0 +1,6 @@
+{
+  "name": "Shah Sweets and Bakers",
+  "description": "Shabqadar's most famous and beloved bakery and sweet shop with 4.2★ rating and 168+ reviews. Premium traditional Pakistani mithai, fresh bakery items, and wedding sweets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
